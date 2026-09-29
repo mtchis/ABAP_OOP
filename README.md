@@ -220,7 +220,3 @@ Một số ý tưởng phát triển thêm:
 - Viết unit test với **ABAP Unit** (`FOR TESTING`).
 
 ---
-
-## Giấy phép
-
-Dự án được phát hành theo giấy phép [MIT](LICENSE). Bạn có thể tự do sử dụng cho mục đích học tập và tham khảo.
