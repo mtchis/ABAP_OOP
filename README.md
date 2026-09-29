@@ -2,7 +2,6 @@
 
 ![ABAP](https://img.shields.io/badge/ABAP-7.40%2B-blue)
 ![Paradigm](https://img.shields.io/badge/Paradigm-OOP-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Chương trình ABAP minh họa **lập trình hướng đối tượng (OOP)** qua bài toán tính lương và thưởng cho nhiều loại nhân viên. Dự án phù hợp cho người mới học ABAP Objects muốn hiểu rõ ba tính chất cốt lõi: **tính trừu tượng**, **tính kế thừa** và **tính đa hình**.
 
